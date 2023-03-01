@@ -1,0 +1,14 @@
+button{
+    margin:  10px;
+    color: coral;
+    color-scheme: black;
+    background-color:yellow;
+}
+
+#current-page{
+    font-size: 2rem;
+
+    color: aliceblue;
+    margin-right: 10px;
+    margin-left: 10px;
+}
